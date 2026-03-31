@@ -1,3 +1,6 @@
 .gradle
 app/.externalNativeBuild
 app/build
+local.properties
+*.keystore
+store.properties
