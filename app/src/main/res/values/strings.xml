@@ -17,4 +17,5 @@
 	<string name="save">Save</string>
 	<string name="control_enable">Enable</string>
 	<string name="control_disable">Disable</string>
+	<string name="permission_control_desc">Allows controlling SocksTun VPN connection and configuration</string>
 </resources>

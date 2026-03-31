@@ -153,7 +153,7 @@ public class Preferences
 	}
 
 	public boolean getGlobal() {
-		return prefs.getBoolean(GLOBAL, false);
+		return prefs.getBoolean(GLOBAL, true);
 	}
 
 	public void setGlobal(boolean enable) {
